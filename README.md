@@ -4,7 +4,7 @@ I'm an aspiring game developer learning **Godot**, **Unity**, **GDScript**, and 
 
 I enjoy combining my interests in programming and games to create small, playable experiences. I currently focus on 2D game development and am preparing to explore 3D development with Godot and Unity.
 
-## Featured project
+## Featured projects
 
 ### [Pocket Survivor](https://junodevx.itch.io/pocket-survivor)
 
@@ -19,21 +19,33 @@ A top-down survivor-like game prototype made with Godot and GDScript.
 
 🎮 [Play Pocket Survivor](https://junodevx.itch.io/pocket-survivor) · 🌐 [View my portfolio](https://junonyaa.github.io/Juno-portfolio/)
 
+### [Adventure Run](https://junodevx.itch.io/adventure-run)
+
+A colorful pixel-art arcade game about navigating traffic, avoiding hazards, and trying to beat a high score.
+
+- Pixel-art environments and characters
+- Traffic and hazard avoidance
+- Time-based gameplay
+- High-score challenge
+
+🎮 [Play Adventure Run](https://junodevx.itch.io/adventure-run) · 💻 [View the source code](https://github.com/junonyaa/Adventure-Run)
+
 ## Skills
 
 - Godot
+- Unity
 - GDScript
+- C# fundamentals
 - 2D game development
 - Gameplay programming
 - Game design and prototyping
 - Debugging
-- C# fundamentals
 
 ## Currently learning
 
 - Building more original games
 - Improving game feel and UI
-- Learning C# with Unity
+- C# with Unity
 - 3D game development with Godot and Unity
 - Git and project organization
 
