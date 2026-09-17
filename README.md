@@ -1,8 +1,8 @@
 # Hi, I'm Juno 👋
 
-I'm an aspiring game developer learning **Godot** and **GDScript**.
+I'm an aspiring game developer learning **Godot**, **Unity**, **GDScript**, and **C#**.
 
-I enjoy combining my interests in programming and games to create small, playable experiences. I currently focus on 2D game development and am preparing to explore 3D development with Godot.
+I enjoy combining my interests in programming and games to create small, playable experiences. I currently focus on 2D game development and am preparing to explore 3D development with Godot and Unity.
 
 ## Featured project
 
@@ -27,13 +27,14 @@ A top-down survivor-like game prototype made with Godot and GDScript.
 - Gameplay programming
 - Game design and prototyping
 - Debugging
-- Python fundamentals
+- C# fundamentals
 
 ## Currently learning
 
 - Building more original games
 - Improving game feel and UI
-- 3D game development with Godot
+- Learning C# with Unity
+- 3D game development with Godot and Unity
 - Git and project organization
 
 ## Contact
