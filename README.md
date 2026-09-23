@@ -30,6 +30,17 @@ A colorful pixel-art arcade game about navigating traffic, avoiding hazards, and
 
 🎮 [Play Adventure Run](https://junodevx.itch.io/adventure-run) · 💻 [View the source code](https://github.com/junonyaa/Adventure-Run)
 
+### [Space Bound](https://junodevx.itch.io/space-bound)
+
+A Unity and C# pixel-art space survival prototype where the player pilots a small ship, avoids asteroid hazards, and chases a high score.
+
+- Score-based arcade gameplay
+- Asteroid hazards
+- Pixel-art space visuals
+- Playable Windows build
+
+🎮 [Play Space Bound](https://junodevx.itch.io/space-bound) · 🎬 [Watch the gameplay video](https://www.youtube.com/watch?v=DYsGh5LYtGM)
+
 ## Skills
 
 - Godot
